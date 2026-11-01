@@ -24,6 +24,9 @@ Welcome to my portfolio! I specialize in bridging Python analytics, experimental
 * **Overview:** Designed an interactive commercial dashboard to analyze retail sales performance and consumer category trends.
 * **Links:** [Explore Interactive Dashboard](https://public.tableau.com/app/profile/alejandro.acebedo.ciro/viz/RetailPerformanceAnalyticsForecasting/Retail_Dashboard) | [View Data & Documentation](YOUR_TABLEAU_REPO_LINK)
 
+* <img width="1221" height="837" alt="image" src="https://github.com/user-attachments/assets/726da469-1b5c-4ee0-86f2-914253267be1" />
+
+
 ---
 
 ## Skills & Toolkit
