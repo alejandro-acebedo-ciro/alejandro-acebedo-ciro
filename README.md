@@ -1,4 +1,7 @@
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b3d8fedc-1ed4-435c-8c32-a68fdb1ca5e5" /># Hello there, I'm Alejandro 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b3d8fedc-1ed4-435c-8c32-a68fdb1ca5e5" />
+
+# Hello there, I'm Alejandro 
+
 ### E-Commerce Strategy & Data Analytics
 
 > *"A delayed game is eventually good, but a rushed game is forever bad."*  
