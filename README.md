@@ -21,7 +21,7 @@ Welcome to my portfolio! I specialize in bridging Python analytics, experimental
 * <img width="1540" height="812" alt="image" src="https://github.com/user-attachments/assets/6b654381-7588-43ee-a997-d52f11d5dc40" />
 
 
-### 2. [E-Commerce Retail Performance & Product Discovery Dashboard](YOUR_TABLEAU_REPO_OR_PUBLIC_LINK)
+### 2. [E-Commerce Retail Performance & Product Discovery Dashboard](https://github.com/alejandro-acebedo-ciro/tableau-ecommerce-retail-analytics)
 * **Tech Stack:** Tableau Desktop / Public, Data Modeling, Data Visualization
 * **Overview:** Designed an interactive commercial dashboard to analyze retail sales performance and consumer category trends.
 * **Links:** [Explore Interactive Dashboard](https://public.tableau.com/app/profile/alejandro.acebedo.ciro/viz/RetailPerformanceAnalyticsForecasting/Retail_Dashboard) | [View Data & Documentation](YOUR_TABLEAU_REPO_LINK)
