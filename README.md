@@ -1,4 +1,4 @@
-# Hello there, I'm Alejandro 
+# Hello there, I'm Alejandro Acebedo Ciro!
 
 ### E-Commerce Strategy & Data Analytics
 
