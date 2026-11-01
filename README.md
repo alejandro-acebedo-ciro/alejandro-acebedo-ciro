@@ -18,6 +18,8 @@ Welcome to my portfolio! I specialize in bridging Python analytics, experimental
 * **Tech Stack:** Python (`pandas`, `statsmodels`), Jupyter Notebook, Matplotlib
 * **Overview:** Analyzed 588k+ users comparing ad performance against a PSA control group. Isolated a +0.77 percentage point lift (2.55% vs. 1.79%, p < 0.001) and established break-even ad cost thresholds to evaluate true campaign ROI.
 * **Links:** [View GitHub Repository](https://github.com/alejandro-acebedo-ciro/marketing-ab-test-analysis)
+* <img width="1540" height="812" alt="image" src="https://github.com/user-attachments/assets/6b654381-7588-43ee-a997-d52f11d5dc40" />
+
 
 ### 2. [E-Commerce Retail Performance & Product Discovery Dashboard](YOUR_TABLEAU_REPO_OR_PUBLIC_LINK)
 * **Tech Stack:** Tableau Desktop / Public, Data Modeling, Data Visualization
